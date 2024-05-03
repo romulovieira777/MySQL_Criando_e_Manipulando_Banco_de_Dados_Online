@@ -1,0 +1,21 @@
+Apresentação
+
+Bem-vindo!
+
+É um prazer tê-lo como aluno do nosso curso online MySQL -Criando e Manipulando Banco de Dados. Este curso é ideal a
+todos aqueles que pretendem compreender as técnicas essenciais de uso da linguagem SQL no gerenciador de banco de dados
+MySQL. No decorrer do curso, você verá assuntos que incluem os conceitos básicos de utilização do MySQL, bem como a
+projeção ecriação de um banco de dados. Também serão apresentadas informações referentes à definição de cláusulas, à
+associação de tabelas e à integridade e consistência dos dados, entre outras.Bom aprendizado!
+
+
+Como estudar?
+
+Assista! -> Pratique! -> Material de Apoio
+
+
+Este curso conta com:
+
+Videoaulas sobre os assuntos que você precisa saber neste curso de introdução prática ao MongoDB.
+Exercícios para você pôr à prova o que aprendeu.
+Material de apoio para você testar os exemplos das videoaulas.
