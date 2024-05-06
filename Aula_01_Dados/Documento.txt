@@ -1,0 +1,2 @@
+Banco de dados relacional
+https://pt.wikipedia.org/wiki/Banco_de_dados_relacional
