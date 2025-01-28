@@ -6,6 +6,6 @@
 - [Aula 01 - Dados](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_01_Dados)
 - [Aula 02 - Tabelas](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_02_Tabelas)
 - [Aula 03 - Inserir Dados](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_03_Inserir_Dados)
-- [Aula 04 - Relacionamentos]()
+- [Aula 04 - Relacionamentos](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_04_Relacionamentos)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/mysql-criando-e-manipulando-banco-de-dados-online)
