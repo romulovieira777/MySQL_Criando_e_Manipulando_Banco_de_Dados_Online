@@ -9,6 +9,6 @@
 - [Aula 04 - Relacionamentos](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_04_Relacionamentos)
 - [Aula 05 - Join e Union](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_05_Join_e_union)
 - [Aula 06 - Funções](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_06_Funcoes)
-- [Aula 07 - Subquery]()
+- [Aula 07 - Subquery](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_07_Subquery)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/mysql-criando-e-manipulando-banco-de-dados-online)
