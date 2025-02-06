@@ -10,6 +10,6 @@
 - [Aula 05 - Join e Union](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_05_Join_e_union)
 - [Aula 06 - Funções](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_06_Funcoes)
 - [Aula 07 - Subquery](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_07_Subquery)
-- [Aula 08 - Case]()
+- [Aula 08 - Case](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_08_Case)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/mysql-criando-e-manipulando-banco-de-dados-online)
