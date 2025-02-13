@@ -13,6 +13,6 @@
 - [Aula 08 - Case](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_08_Case)
 - [Aula 09 - Views](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_09_Views)
 - [Aula 10 - Tipos de Tabelas e Transação](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_10_Tipos_de_Tabelas_e_Transacao)
-- [Aula 11 - Tipos de Tabelas e Select]()
+- [Aula 11 - Tipos de Tabelas e Select](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_11_Aula_11_Tipos_De_Tabelas_E_Select)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/mysql-criando-e-manipulando-banco-de-dados-online)
