@@ -15,6 +15,7 @@
 - [Aula 10 - Tipos de Tabelas e Transação](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_10_Tipos_de_Tabelas_e_Transacao)
 - [Aula 11 - Tipos de Tabelas e Select](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_11_Aula_11_Tipos_De_Tabelas_E_Select)
 - [Aula 12 - Agreação e Inner Join](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_12_Agreacao_e_Inner_Join)
-- [Aula 13 - Outer Join]()
+- [Aula 13 - Outer Join](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_13_Outer_Join)
+- [Aula 14 - Consultas com Subqueries]()
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/mysql-criando-e-manipulando-banco-de-dados-online)
