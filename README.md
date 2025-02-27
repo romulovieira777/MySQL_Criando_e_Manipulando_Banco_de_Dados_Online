@@ -18,5 +18,6 @@
 - [Aula 13 - Outer Join](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_13_Outer_Join)
 - [Aula 14 - Consultas com Subqueries](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_14_Consultas_com_Subqueries)
 - [Aula 15 - Totalizacao de Dados](https://github.com/romulovieira777/MySQL_Criando_e_Manipulando_Banco_de_Dados_Online/tree/main/Aula_15_Totalizacao_de_Dados)
+- [Aula 16 - Exercícios]()
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/mysql-criando-e-manipulando-banco-de-dados-online)
